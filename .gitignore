@@ -25,7 +25,7 @@ bin/
 ### VS Code ###
 .vscode/
 .idea
-.iml
+*.iml
 out/
 
 ### Mac OS ###
